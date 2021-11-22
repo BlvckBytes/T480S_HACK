@@ -1670,8 +1670,6 @@
 		<true/>
 		<key>Generic</key>
 		<dict>
-			<key>AdviseWindows</key>
-			<false/>
 			<key>MLB</key>
 			<string>C02947102GUHWVPA8</string>
 			<key>ROM</key>
@@ -1866,8 +1864,6 @@
 		<dict>
 			<key>AppleEvent</key>
 			<string>Builtin</string>
-			<key>CustomDelays</key>
-			<string>Auto</string>
 			<key>KeyInitialDelay</key>
 			<integer>0</integer>
 			<key>KeySubsequentDelay</key>
