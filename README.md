@@ -1,5 +1,7 @@
 # T480S Hackintosh (OpenCore)
 
+![Preview](imgs/preview.jpg)
+
 With this setup, you'll get the following:
 
 * ✅ Trackpad, Buttons, Trackpoint
